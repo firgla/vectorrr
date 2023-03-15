@@ -1,0 +1,7 @@
+/home/firgla/codes c++/vector/test/build/CMakeFiles/testvector.dir
+/home/firgla/codes c++/vector/test/build/CMakeFiles/test.dir
+/home/firgla/codes c++/vector/test/build/CMakeFiles/edit_cache.dir
+/home/firgla/codes c++/vector/test/build/CMakeFiles/rebuild_cache.dir
+/home/firgla/codes c++/vector/test/build/dim/CMakeFiles/test.dir
+/home/firgla/codes c++/vector/test/build/dim/CMakeFiles/edit_cache.dir
+/home/firgla/codes c++/vector/test/build/dim/CMakeFiles/rebuild_cache.dir
